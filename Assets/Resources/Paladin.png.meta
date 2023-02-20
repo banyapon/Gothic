@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 366300106556240f7bc557d0669a83e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8594515011827703002
+    second: Paladin_0
+  - first:
+      213: -734136026446662738
+    second: Paladin_1
+  - first:
+      213: -9005066228451615454
+    second: Paladin_2
+  - first:
+      213: 8631806573255435266
+    second: Paladin_3
+  - first:
+      213: 5231937477524444416
+    second: Paladin_4
+  - first:
+      213: 4577978577771441073
+    second: Paladin_5
+  - first:
+      213: -1491771624535794327
+    second: Paladin_6
+  - first:
+      213: -1802729984347709583
+    second: Paladin_7
+  - first:
+      213: -6718538385532396002
+    second: Paladin_8
+  - first:
+      213: -7192194909793260318
+    second: Paladin_9
+  - first:
+      213: -560364173528875836
+    second: Paladin_10
+  - first:
+      213: -8679471837222892306
+    second: Paladin_11
+  - first:
+      213: -3452510784436246397
+    second: Paladin_12
+  - first:
+      213: -5021495012389052907
+    second: Paladin_13
+  - first:
+      213: -4545129634859405905
+    second: Paladin_14
+  - first:
+      213: -344677276990844203
+    second: Paladin_15
+  - first:
+      213: 5588551220146572547
+    second: Paladin_16
+  - first:
+      213: -3518623158509307825
+    second: Paladin_17
+  - first:
+      213: -4405236645816407492
+    second: Paladin_18
+  - first:
+      213: -3533147838295670429
+    second: Paladin_19
+  - first:
+      213: 1160583968390711335
+    second: Paladin_20
+  - first:
+      213: -2140588334699272622
+    second: Paladin_21
+  - first:
+      213: -2477468393801074918
+    second: Paladin_22
+  - first:
+      213: 3754263429125384967
+    second: Paladin_23
+  - first:
+      213: 7577880669309499688
+    second: Paladin_24
+  - first:
+      213: 1685716444495680816
+    second: Paladin_25
+  - first:
+      213: -2757037747711518231
+    second: Paladin_26
+  - first:
+      213: -2357997526910653864
+    second: Paladin_27
+  - first:
+      213: 3257518924243884644
+    second: Paladin_28
+  - first:
+      213: -489340775993730722
+    second: Paladin_29
+  - first:
+      213: 157908475099025609
+    second: Paladin_30
+  - first:
+      213: 3808422516578355419
+    second: Paladin_31
+  - first:
+      213: -3896644962055775111
+    second: Paladin_32
+  - first:
+      213: 2533071701723408559
+    second: Paladin_33
+  - first:
+      213: -2685209556917296019
+    second: Paladin_34
+  - first:
+      213: -5396595615170109025
+    second: Paladin_35
+  - first:
+      213: 1805969544615777414
+    second: Paladin_36
+  - first:
+      213: -1969969260456098156
+    second: Paladin_37
+  - first:
+      213: 354440678181674517
+    second: Paladin_38
+  - first:
+      213: 6404132042220953192
+    second: Paladin_39
+  - first:
+      213: 4259060705807644094
+    second: Paladin_40
+  - first:
+      213: -8436213905861737249
+    second: Paladin_41
+  - first:
+      213: 5535027024602761341
+    second: Paladin_42
+  - first:
+      213: 8189017299967365790
+    second: Paladin_43
+  - first:
+      213: -7576314965617202255
+    second: Paladin_44
+  - first:
+      213: 8172769259904736381
+    second: Paladin_45
+  - first:
+      213: 8878795006217776896
+    second: Paladin_46
+  - first:
+      213: 7140631933551504769
+    second: Paladin_47
+  - first:
+      213: -1207675741764834283
+    second: Paladin_48
+  - first:
+      213: -5439697463308732489
+    second: Paladin_49
+  - first:
+      213: -3908139075222710585
+    second: Paladin_50
+  - first:
+      213: -4123418906003322806
+    second: Paladin_51
+  - first:
+      213: -8647147915514738932
+    second: Paladin_52
+  - first:
+      213: 2889476809879255693
+    second: Paladin_53
+  - first:
+      213: 429671789942338185
+    second: Paladin_54
+  - first:
+      213: 5441396291210858368
+    second: Paladin_55
+  - first:
+      213: 5792907265616585571
+    second: Paladin_56
+  - first:
+      213: -4120780708981031948
+    second: Paladin_57
+  - first:
+      213: -4750777190349559826
+    second: Paladin_58
+  - first:
+      213: 3124859440931611171
+    second: Paladin_59
+  - first:
+      213: 2695776531687848314
+    second: Paladin_60
+  - first:
+      213: 4959502980781511141
+    second: Paladin_61
+  - first:
+      213: 8771026887907869110
+    second: Paladin_62
+  - first:
+      213: 1695470511520296499
+    second: Paladin_63
+  - first:
+      213: -4963977277359354454
+    second: Paladin_64
+  - first:
+      213: -2328603165155044333
+    second: Paladin_65
+  - first:
+      213: 7635292513286346753
+    second: Paladin_66
+  - first:
+      213: 5925350001322740344
+    second: Paladin_67
+  - first:
+      213: -3724448499514135371
+    second: Paladin_68
+  - first:
+      213: 7144643212103062660
+    second: Paladin_69
+  - first:
+      213: -7086451817710338974
+    second: Paladin_70
+  - first:
+      213: -919229113078475729
+    second: Paladin_71
+  - first:
+      213: 1369522076507284975
+    second: Paladin_72
+  - first:
+      213: -9221683133651631371
+    second: Paladin_73
+  - first:
+      213: -5884673498532694844
+    second: Paladin_74
+  - first:
+      213: -5653030561010063045
+    second: Paladin_75
+  - first:
+      213: 1248965932996753231
+    second: Paladin_76
+  - first:
+      213: -5249254519303325283
+    second: Paladin_77
+  - first:
+      213: 5590657754577837674
+    second: Paladin_78
+  - first:
+      213: 856581399473186764
+    second: Paladin_79
+  - first:
+      213: 6255775607238049197
+    second: Paladin_80
+  - first:
+      213: 5282443985349994483
+    second: Paladin_81
+  - first:
+      213: 6448704940272877002
+    second: Paladin_82
+  - first:
+      213: -34160489594686313
+    second: Paladin_83
+  - first:
+      213: -1318376691637378265
+    second: Paladin_84
+  - first:
+      213: -538752238169511364
+    second: Paladin_85
+  - first:
+      213: 8155068673381185089
+    second: Paladin_86
+  - first:
+      213: -8473677266429332366
+    second: Paladin_87
+  - first:
+      213: 4858048272363359579
+    second: Paladin_88
+  - first:
+      213: -5771165917571089914
+    second: Paladin_89
+  - first:
+      213: 1372750081609802892
+    second: Paladin_90
+  - first:
+      213: 6664671596636967715
+    second: Paladin_91
+  - first:
+      213: -976671282121533772
+    second: Paladin_92
+  - first:
+      213: 6545012652511287974
+    second: Paladin_93
+  - first:
+      213: -6717129645140938603
+    second: Paladin_94
+  - first:
+      213: -1922074346202894191
+    second: Paladin_95
+  - first:
+      213: -2416376469543694103
+    second: Paladin_96
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6236f37e1262ab880800000000000000
+      internalID: -8594515011827703002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea374de6c23dfc5f0800000000000000
+      internalID: -734136026446662738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d5642e9f3970380800000000000000
+      internalID: -9005066228451615454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204a5c858565ac770800000000000000
+      internalID: 8631806573255435266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d5e27a639b9840800000000000000
+      internalID: 5231937477524444416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb2a65e24f388f30800000000000000
+      internalID: 4577978577771441073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d59897c992c4be0800000000000000
+      internalID: -1491771624535794327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f520961aa6bf6e0800000000000000
+      internalID: -1802729984347709583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ed3884fe4f2c2a0800000000000000
+      internalID: -6718538385532396002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 990
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec666ed5d0303c90800000000000000
+      internalID: -7192194909793260318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb4fbc0cf2938f0800000000000000
+      internalID: -560364173528875836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec825099525c8780800000000000000
+      internalID: -8679471837222892306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e876dbb73610d0800000000000000
+      internalID: -3452510784436246397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e972924e0105ab0800000000000000
+      internalID: -5021495012389052907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadaa10ada47ce0c0800000000000000
+      internalID: -4545129634859405905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2dfceb7d5773bf0800000000000000
+      internalID: -344677276990844203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d89eda9b58e8d40800000000000000
+      internalID: 5588551220146572547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48f69a31e65b2fc0800000000000000
+      internalID: -3518623158509307825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a649e4c947dd2c0800000000000000
+      internalID: -4405236645816407492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 880
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361827fa2ccb7fec0800000000000000
+      internalID: -3533147838295670429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72801ff58f83b1010800000000000000
+      internalID: 1160583968390711335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256a7eb304a1b42e0800000000000000
+      internalID: -2140588334699272622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ba3d3f934e9dd0800000000000000
+      internalID: -2477468393801074918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b2246a2b2d91430800000000000000
+      internalID: 3754263429125384967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829fd74c15a0a2960800000000000000
+      internalID: 7577880669309499688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035133acc2ed46710800000000000000
+      internalID: 1685716444495680816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9df4f96c80db9d0800000000000000
+      internalID: -2757037747711518231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aad331eb5b64fd0800000000000000
+      internalID: -2357997526910653864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a5ba8d338053d20800000000000000
+      internalID: 3257518924243884644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 770
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5997c828238539f0800000000000000
+      internalID: -489340775993730722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c01d45ebe0013200800000000000000
+      internalID: 157908475099025609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd88047d91c3ad430800000000000000
+      internalID: 3808422516578355419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c99d46d065ce9c0800000000000000
+      internalID: -3896644962055775111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa861dbba47472320800000000000000
+      internalID: 2533071701723408559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e57482283cbad0800000000000000
+      internalID: -2685209556917296019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91ea5161e07b15b0800000000000000
+      internalID: -5396595615170109025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845ffd7bb7101910800000000000000
+      internalID: 1805969544615777414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_37
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496431c156349a4e0800000000000000
+      internalID: -1969969260456098156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e97fc3be93be400800000000000000
+      internalID: 354440678181674517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_39
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 660
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed64f692c00e850800000000000000
+      internalID: 6404132042220953192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53d7e75293b1b30800000000000000
+      internalID: 4259060705807644094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd486eb462c8cea80800000000000000
+      internalID: -8436213905861737249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7882a7c0cd50dc40800000000000000
+      internalID: 5535027024602761341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e925518d8db35a170800000000000000
+      internalID: 8189017299967365790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb29e70ea58bd690800000000000000
+      internalID: -7576314965617202255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c9ad737528b6170800000000000000
+      internalID: 8172769259904736381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f6f1b2401d73b70800000000000000
+      internalID: 8878795006217776896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18de52f29ee981360800000000000000
+      internalID: 7140631933551504769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2048bf497d3fe0800000000000000
+      internalID: -1207675741764834283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 550
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7b3e55aff4284b0800000000000000
+      internalID: -5439697463308732489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6d680a73083c9c0800000000000000
+      internalID: -3908139075222710585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ca8f0a5ca6c6c0800000000000000
+      internalID: -4123418906003322806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c070c7f09c82ff780800000000000000
+      internalID: -8647147915514738932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af49779db791820800000000000000
+      internalID: 2889476809879255693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f489673086f500800000000000000
+      internalID: 429671789942338185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f40cbd819b38b40800000000000000
+      internalID: 5441396291210858368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_56
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3632bd7477a846050800000000000000
+      internalID: 5792907265616585571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_57
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb37eb27cb00d6c0800000000000000
+      internalID: -4120780708981031948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7af2ae059d11eb0800000000000000
+      internalID: -4750777190349559826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_59
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 440
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32221c5fa1bbd5b20800000000000000
+      internalID: 3124859440931611171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b6150972596520800000000000000
+      internalID: 2695776531687848314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e119f73fa1b3d440800000000000000
+      internalID: 4959502980781511141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10621db72f8b970800000000000000
+      internalID: 8771026887907869110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e215e7275878710800000000000000
+      internalID: 1695470511520296499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad82ed67f86c1bb0800000000000000
+      internalID: -4963977277359354454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314551e32c32fafd0800000000000000
+      internalID: -2328603165155044333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108d1aa561206f960800000000000000
+      internalID: 7635292513286346753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_67
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac3beae621b3250800000000000000
+      internalID: 5925350001322740344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_68
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc293a92d9105cc0800000000000000
+      internalID: -3724448499514135371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_69
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 330
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4841f40c52fd62360800000000000000
+      internalID: 7144643212103062660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c347f0e9dd7ad90800000000000000
+      internalID: -7086451817710338974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_71
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2492cfedfd3e33f0800000000000000
+      internalID: -919229113078475729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a5429215810310800000000000000
+      internalID: 1369522076507284975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2cb7b6c00060080800000000000000
+      internalID: -9221683133651631371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4bdc4a1a0755ea0800000000000000
+      internalID: -5884673498532694844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_75
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396192e7a66c81b0800000000000000
+      internalID: -5653030561010063045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_76
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f5d416e7355110800000000000000
+      internalID: 1248965932996753231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_77
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99bf4193d6e627b0800000000000000
+      internalID: -5249254519303325283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_78
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e15627b91069d40800000000000000
+      internalID: 5590657754577837674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_79
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 220
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc76ec49e3033eb00800000000000000
+      internalID: 856581399473186764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad3aff25caf0d650800000000000000
+      internalID: 6255775607238049197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f76fac21d20f4940800000000000000
+      internalID: 5282443985349994483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd754af9f66e7950800000000000000
+      internalID: 6448704940272877002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794fa583733a68ff0800000000000000
+      internalID: -34160489594686313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_84
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723acce426f24bde0800000000000000
+      internalID: -1318376691637378265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aa5fd91b7f588f0800000000000000
+      internalID: -538752238169511364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463dc340cf9c2170800000000000000
+      internalID: 8155068673381185089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_87
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743d21fb63776a80800000000000000
+      internalID: -8473677266429332366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_88
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0be72a214b6340800000000000000
+      internalID: 4858048272363359579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 110
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7557cc23b8efa0800000000000000
+      internalID: -5771165917571089914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84adb31decfc0310800000000000000
+      internalID: 1372750081609802892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3239e26918bad7c50800000000000000
+      internalID: 6664671596636967715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b612deb4aa2272f0800000000000000
+      internalID: -976671282121533772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5f5b945e84da50800000000000000
+      internalID: 6545012652511287974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_94
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590f0273d26f7c2a0800000000000000
+      internalID: -6717129645140938603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907fa2d09b6355e0800000000000000
+      internalID: -1922074346202894191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_96
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e05c39476e477ed0800000000000000
+      internalID: -2416376469543694103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Paladin_91: 6664671596636967715
+      Paladin_72: 1369522076507284975
+      Paladin_82: 6448704940272877002
+      Paladin_9: -7192194909793260318
+      Paladin_2: -9005066228451615454
+      Paladin_46: 8878795006217776896
+      Paladin_27: -2357997526910653864
+      Paladin_34: -2685209556917296019
+      Paladin_5: 4577978577771441073
+      Paladin_74: -5884673498532694844
+      Paladin_86: 8155068673381185089
+      Paladin_45: 8172769259904736381
+      Paladin_77: -5249254519303325283
+      Paladin_0: -8594515011827703002
+      Paladin_48: -1207675741764834283
+      Paladin_26: -2757037747711518231
+      Paladin_36: 1805969544615777414
+      Paladin_76: 1248965932996753231
+      Paladin_81: 5282443985349994483
+      Paladin_85: -538752238169511364
+      Paladin_51: -4123418906003322806
+      Paladin_12: -3452510784436246397
+      Paladin_55: 5441396291210858368
+      Paladin_59: 3124859440931611171
+      Paladin_58: -4750777190349559826
+      Paladin_49: -5439697463308732489
+      Paladin_50: -3908139075222710585
+      Paladin_70: -7086451817710338974
+      Paladin_68: -3724448499514135371
+      Paladin_7: -1802729984347709583
+      Paladin_8: -6718538385532396002
+      Paladin_37: -1969969260456098156
+      Paladin_62: 8771026887907869110
+      Paladin_20: 1160583968390711335
+      Paladin_92: -976671282121533772
+      Paladin_96: -2416376469543694103
+      Paladin_11: -8679471837222892306
+      Paladin_16: 5588551220146572547
+      Paladin_57: -4120780708981031948
+      Paladin_66: 7635292513286346753
+      Paladin_73: -9221683133651631371
+      Paladin_47: 7140631933551504769
+      Paladin_54: 429671789942338185
+      Paladin_53: 2889476809879255693
+      Paladin_43: 8189017299967365790
+      Paladin_31: 3808422516578355419
+      Paladin_79: 856581399473186764
+      Paladin_67: 5925350001322740344
+      Paladin_44: -7576314965617202255
+      Paladin_83: -34160489594686313
+      Paladin_19: -3533147838295670429
+      Paladin_75: -5653030561010063045
+      Paladin_42: 5535027024602761341
+      Paladin_30: 157908475099025609
+      Paladin_63: 1695470511520296499
+      Paladin_22: -2477468393801074918
+      Paladin_90: 1372750081609802892
+      Paladin_1: -734136026446662738
+      Paladin_3: 8631806573255435266
+      Paladin_10: -560364173528875836
+      Paladin_56: 5792907265616585571
+      Paladin_52: -8647147915514738932
+      Paladin_71: -919229113078475729
+      Paladin_4: 5231937477524444416
+      Paladin_21: -2140588334699272622
+      Paladin_39: 6404132042220953192
+      Paladin_28: 3257518924243884644
+      Paladin_69: 7144643212103062660
+      Paladin_93: 6545012652511287974
+      Paladin_95: -1922074346202894191
+      Paladin_25: 1685716444495680816
+      Paladin_14: -4545129634859405905
+      Paladin_35: -5396595615170109025
+      Paladin_64: -4963977277359354454
+      Paladin_87: -8473677266429332366
+      Paladin_84: -1318376691637378265
+      Paladin_24: 7577880669309499688
+      Paladin_41: -8436213905861737249
+      Paladin_33: 2533071701723408559
+      Paladin_38: 354440678181674517
+      Paladin_60: 2695776531687848314
+      Paladin_94: -6717129645140938603
+      Paladin_78: 5590657754577837674
+      Paladin_61: 4959502980781511141
+      Paladin_23: 3754263429125384967
+      Paladin_40: 4259060705807644094
+      Paladin_15: -344677276990844203
+      Paladin_17: -3518623158509307825
+      Paladin_18: -4405236645816407492
+      Paladin_88: 4858048272363359579
+      Paladin_80: 6255775607238049197
+      Paladin_89: -5771165917571089914
+      Paladin_65: -2328603165155044333
+      Paladin_13: -5021495012389052907
+      Paladin_6: -1491771624535794327
+      Paladin_29: -489340775993730722
+      Paladin_32: -3896644962055775111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
